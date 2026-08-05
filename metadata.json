@@ -1,0 +1,6 @@
+{
+  "name": "ScrapeMind AI - Web Scraper & Research Agent",
+  "description": "AI web scraping and research agent that gathers online offers, specs, and market intelligence with real-time web search, custom parameters, structured dashboard analytics, and automated alert monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
